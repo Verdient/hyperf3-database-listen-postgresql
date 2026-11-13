@@ -7,8 +7,8 @@
         "hyperf/coroutine": "^3.2",
         "hyperf/event": "^3.2",
         "hyperf/framework": "^3.2",
-        "verdient/hyperf3-database-listen": "^2.1",
-        "verdient/hyperf3-logger": "^2.1"
+        "verdient/hyperf3-database-listen": "^3.2",
+        "verdient/hyperf3-logger": "^3.2"
     },
     "require-dev": {
         "swoole/ide-helper": "^6.0"
